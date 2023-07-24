@@ -7,7 +7,7 @@ The dataset The goal is to predict price of given diamond (Regression Analysis).
 
 There are 10 independent variables (including id):
 
-1.id : unique identifier of each diamond
+1.id : unique identifier of each diamond 
 2. carat : Carat (ct.) refers to the unique unit of weight measurement used exclusively to weigh gemstones and diamonds.
 3. cut : Quality of Diamond Cut
 4. color : Color of Diamond
