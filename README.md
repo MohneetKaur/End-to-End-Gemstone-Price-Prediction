@@ -17,5 +17,4 @@ There are 10 independent variables (including id):
 * x : Diamond X dimension
 * y : Diamond Y dimension
 * x : Diamond Z dimension
-Target variable:
 * price: Price of the given Diamond.
