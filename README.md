@@ -9,7 +9,7 @@ There are 10 independent variables (including id):
 
 *id : unique identifier of each diamond 
 *carat : Carat (ct.) refers to the unique unit of weight measurement used exclusively to weigh gemstones and diamonds.
-3. cut : Quality of Diamond Cut
+* cut : Quality of Diamond Cut
 4. color : Color of Diamond
 5. clarity : Diamond clarity is a measure of the purity and rarity of the stone, graded by the visibility of these characteristics under 10-power magnification.
 6. depth : The depth of diamond is its height (in millimeters) measured from the culet (bottom tip) to the table (flat, top surface)
