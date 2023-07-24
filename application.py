@@ -32,7 +32,7 @@ def predict_datapoint():
             z = float(request.form.get('z'))
 
         )
-
+         
         pred_df = data.get_data_as_data_frame()
         print(pred_df)
 
